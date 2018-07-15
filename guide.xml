@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/rtp-1.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <programme start="20180715035800 +0100" stop="20180715055500 +0100" channel="RTP 1">
+    <title lang="pt">Mary Kom</title>
+    <desc lang="pt">A história de uma pugilista indiana que tem de enfrentar vários obstáculos para concretizar um sonho: ser campeã mundial de boxe. Para alcançar esse sonho terá de ultrapassar o facto de ser mulher, treinar arduamente e aceitar a reprovação por parte da família, mas a perseverança vai valer a pena. Baseado na história verídica da pugilista indiana 'MC Mary Kom', cinco vezes campeã mundial de Boxe(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11291123/M" />
+  </programme>
+  <programme start="20180715055500 +0100" stop="20180715061000 +0100" channel="RTP 1">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11291124/M" />
+  </programme>
+  <programme start="20180715061000 +0100" stop="20180715063000 +0100" channel="RTP 1">
+    <title lang="pt">Todas as Palavras</title>
+    <desc lang="pt">Ana Daniela Soares, Inês Fonseca Santos e Luís Caetano conversam com quem nos emociona através das palavras(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11291125/M" />
+  </programme>
+  <programme start="20180715063000 +0100" stop="20180715080000 +0100" channel="RTP 1">
+    <title lang="pt">Zig Zag</title>
+    <desc lang="pt">Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11268405/M" />
+  </programme>
+  <programme start="20180715080000 +0100" stop="20180715103000 +0100" channel="RTP 1">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="pt">Um espaço onde se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11268406/M" />
+  </programme>
+  <programme start="20180715103000 +0100" stop="20180715113000 +0100" channel="RTP 1">
+    <title lang="pt">Eucaristia Dominical</title>
+    <desc lang="pt">A celebração dominical do Dia e da Eucaristia do Senhor está no centro da vida da Igreja Católica(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11268407/M" />
+  </programme>
+  <programme start="20180715113000 +0100" stop="20180715130000 +0100" channel="RTP 1">
+    <title lang="pt">30ª Gala Internacional dos Pequenos Cantores da Figueira da Foz</title>
+    <desc lang="pt">A 30ª Gala Internacional dos Pequenos Cantores da Figueira da Foz decorre no dia 15 de julho, no Centro de Artes e Espetáculos da Figueira da Foz. Uma iniciativa da Câmara Municipal da Figueira da Foz, apoiada pela Unicef, que pretende promover a criação e a divulgação de músicas infantis, interpretadas por crianças entre os 5 e os 10 anos(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11268408/M" />
+  </programme>
+  <programme start="20180715130000 +0100" stop="20180715141600 +0100" channel="RTP 1">
+    <title lang="pt">Jornal da Tarde</title>
+    <desc lang="pt">As notícias que marcam a atualidade nacional e internacional(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11295606/M" />
+  </programme>
+  <programme start="20180715141600 +0100" stop="20180715152500 +0100" channel="RTP 1">
+    <title lang="pt">França x Croácia - Mundial 2018 - Final (Antevisão)</title>
+    <desc lang="pt">Os momentos que antecedem a grandiosa final do Campeonato do Mundo 2018(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11291126/M" />
+  </programme>
+  <programme start="20180715152500 +0100" stop="20180715175800 +0100" channel="RTP 1">
+    <title lang="pt">França x Croácia - Mundial 2018 - Final (Direto)</title>
+    <desc lang="pt">Transmissão da final do Mundial 2018(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11291127/M" />
+  </programme>
+  <programme start="20180715175800 +0100" stop="20180715190900 +0100" channel="RTP 1">
+    <title lang="pt">Mundial 2018: Entrega do Troféu</title>
+    <desc lang="pt">Depois da jogo da final do Campeonato do Mundo 2018, acompanhe a entrega do troféu e festa da seleção vencedora na sua RTP(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11295607/M" />
+  </programme>
+  <programme start="20180715190900 +0100" stop="20180715195900 +0100" channel="RTP 1">
+    <title lang="pt">O Preço Certo</title>
+    <desc lang="pt">Um dos concursos mais famosos da Europa com um ambiente elétrico onde quem se senta na plateia é convidado a jogar. Um programa de entretenimento com um caráter informativo sobre os preços de mercado e sobre novos produtos(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11282863/M" />
+  </programme>
+  <programme start="20180715195900 +0100" stop="20180715205700 +0100" channel="RTP 1">
+    <title lang="pt">Telejornal</title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Cristina Esteves mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante, está no Telejornal(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11268414/M" />
+  </programme>
+  <programme start="20180715205700 +0100" stop="20180715223700 +0100" channel="RTP 1">
+    <title lang="pt">Hóquei em Patins: Andorra x Portugal - Camp. Europa 2018 (Direto)</title>
+    <desc lang="pt">O Campeonato da Europa de Hóquei em Patins masculino decorre na Corunha, Espanha, entre 14 e 22 de julho, naquela que é a 53a edição da competição. Na disputa pelo título de campeão europeu de hóquei em patins estão a Andorra, Bélgica, Holanda, Alemanha, Áustria, Espanha, França, Inglaterra, Itália, Portugal e Suíça(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11295608/M" />
+  </programme>
+  <programme start="20180715223700 +0100" stop="20180716005000 +0100" channel="RTP 1">
+    <title lang="pt">Infiltrado</title>
+    <desc lang="pt">Arizona, EUA. A agente especial do FBI, Kate Macer, e a sua equipa descobrem dezenas de cadáveres dentro de uma casa prestes a explodir. Dois agentes são mortalmente atingidos e Kate é ferida. Dave Jennings, o seu superior, recomenda-a a Matt Graver, um representante do Ministério dos Negócios Estrangeiros que pretende juntar um grupo com alguns dos melhores agentes para encontrar o responsável pelo crime no Arizona(n)</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/11268416/M" />
+  </programme>
+</tv>
